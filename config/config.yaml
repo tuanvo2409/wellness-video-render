@@ -1,0 +1,17 @@
+pexels_api_key: "YOUR_PEXELS_KEY"
+replicate_api_key: "YOUR_REPLICATE_KEY"
+deepseek_api_key: "YOUR_DEEPSEEK_KEY"
+
+local_assets_path: "./assets"
+theme: "health"
+
+allowed_topics:
+  - wellness
+  - health
+  - nutrition
+  - energy
+
+video:
+  resolution: "1080p"
+  fps: 30
+  transition: "crossfade"
